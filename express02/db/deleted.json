@@ -1,0 +1,42 @@
+[
+  {
+    "id": 17,
+    "title": "Generic Wooden Computer",
+    "price": 677,
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "images": [
+      "https://picsum.photos/640/640?r=7998",
+      "https://picsum.photos/640/640?r=5722",
+      "https://picsum.photos/640/640?r=6911"
+    ],
+    "creationAt": "2023-05-03T00:09:03.000Z",
+    "updatedAt": "2023-05-03T00:09:03.000Z",
+    "category": {
+      "id": 3,
+      "name": "Camilo",
+      "image": "https://cdn.waifu.im/6699.jpg",
+      "creationAt": "2023-05-03T00:09:03.000Z",
+      "updatedAt": "2023-05-03T01:33:01.000Z"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Fantastic Soft Gloves",
+    "price": 802,
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "images": [
+      "https://picsum.photos/640/640?r=8606",
+      "https://picsum.photos/640/640?r=7899",
+      "https://picsum.photos/640/640?r=2752"
+    ],
+    "creationAt": "2023-05-03T00:09:03.000Z",
+    "updatedAt": "2023-05-03T00:09:03.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=1983",
+      "creationAt": "2023-05-03T00:09:03.000Z",
+      "updatedAt": "2023-05-03T00:09:03.000Z"
+    }
+  }
+]
